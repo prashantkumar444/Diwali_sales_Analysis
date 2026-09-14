@@ -5,24 +5,24 @@ This project focuses on analyzing Diwali Sales data using Python in jupyter Note
 
 The project explores different aspects of sales data to identify patterns and understand sales performance across various categories.
 
-##Objective
+## Objective
 The main objective of this project is to perform exploratory data analysis on Diwali Sales data and understand different sales patterns using python.
 
-##Dataset
+## Dataset
 The dataset was provided in Excel format and imported into Jupyter Notebook for analysis.
 
-##Tools and Technologies
+## Tools and Technologies
 - Python
 - Jupyter Notebook
 - Excel
 
-##Python Libraries Used
+## Python Libraries Used
 - Pandas
 - Numpy
 - Matplotlib
 - Seaborn
 
-##Analysis Performed
+## Analysis Performed
 The following analysis were performed as part of the project:
 -Imported and explored the sales dataset
 -Analyzed sales based on gender
@@ -31,7 +31,7 @@ The following analysis were performed as part of the project:
 -Created visualizations to understand the analyzed data
 -Used charts and graphs to present sales patterns 
 
-##Visualizations
+## Visualizations
 The project includes visualization for different aspects of the sales data,including:
 - Sales by gender
 - Sales by states 
